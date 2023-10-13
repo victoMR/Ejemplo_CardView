@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo CardView</string>
+    <string name="tvTarjeta1">Tributos a Checo Perez 👋</string>
+    <string name="tvTarjeta2">Ofrenda a checo perez</string>
+    <string name="tvTarjeta3">Checo calvo</string>
+    <string name="tvTarjeta4">Santo Checo </string>
+    <string name="tvTarjeta5">Checo Perez en 🐻</string>
+</resources>
